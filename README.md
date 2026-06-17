@@ -4,7 +4,7 @@ O Key Forge é um gerador de senhas feito em Python com interface gráfica usand
 
 Ele permite criar senhas seguras e personalizadas de forma rápida, direto pela interface.
 
-<img width="561" height="757" alt="pré-visualização" src="https://github.com/user-attachments/assets/241c4daf-2ddc-4ec9-92ce-2a2289cc06da" />
+<img width="350" height="500" alt="pré-visualização" src="https://github.com/user-attachments/assets/241c4daf-2ddc-4ec9-92ce-2a2289cc06da" />
 
 # Sobre o projeto
 
